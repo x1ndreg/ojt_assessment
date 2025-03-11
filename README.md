@@ -1,7 +1,7 @@
 # Note before proceeding :>
 I relied heavily on AI to develop this system, but I also took the time to understand the code and make adjustments where needed. I use AI to enhance my efficiency and take full advantage of the tools readily available today, which is why I often find myself immersed in coding. My primary programming languages are HTML, CSS, PHP, and MySQL. For languages like Java and others, I depend on AI for guidance and support.
 
-For this assessment, I chose to work with React, Vite, and Tailwind CSS, even though I had limited prior experience with these technologies. I didn't incorporate a database, as I found integrating one with React more challenging than I anticipated, likely due to my beginner status. Instead, I opted to use localStorage to store data locally on my device. Despite these challenges, I'm eager and determined to continue learning and expanding my skill set.
+For this assessment, I chose to work with React, Vite, and Tailwind CSS, even though I had limited prior experience with these technologies. I didn't incorporate a database, as I found integrating one with React more challenging than I anticipated, likely due to my beginner status. Instead, I opted to use localStorage to store data. Despite these challenges, I'm eager and determined to continue learning and expanding my skill set.
 
 
 # Alexis Construction Services Management System
