@@ -101,10 +101,6 @@ The application uses browser's Local Storage to persist data. This means:
 - Data will persist between sessions
 - Clearing browser data will reset the application
 
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
 ## Acknowledgments
 
 - Icons provided by [React Icons](https://react-icons.github.io/react-icons/)
